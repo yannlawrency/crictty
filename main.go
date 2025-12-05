@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/ashish0kumar/crictty/cmd"
+	"github.com/yannlawrency/crictty/cmd"
 )
 
 var version = "dev"

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ashish0kumar/crictty/internal/cricbuzz"
-	"github.com/ashish0kumar/crictty/internal/models"
+	"github.com/yannlawrency/crictty/internal/cricbuzz"
+	"github.com/yannlawrency/crictty/internal/models"
 )
 
 // App represents the main application structure

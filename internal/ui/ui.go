@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ashish0kumar/crictty/internal/app"
-	"github.com/ashish0kumar/crictty/internal/models"
+	"github.com/yannlawrency/crictty/internal/app"
+	"github.com/yannlawrency/crictty/internal/models"
 
 	"github.com/charmbracelet/bubbles/key"
 	tea "github.com/charmbracelet/bubbletea"

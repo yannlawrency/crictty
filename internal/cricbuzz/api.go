@@ -9,16 +9,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ashish0kumar/crictty/internal/models"
+	"github.com/yannlawrency/crictty/internal/models"
 
 	"github.com/PuerkitoBio/goquery"
 )
 
 // URL constants for Cricbuzz API endpoints
 const (
+	CricbuzzMatchAPI          = "https://www.cricbuzz.com/api/mcenter/comm/"
+	CricbuzzMatchScorecardAPI = "https://www.cricbuzz.com/api/mcenter/scorecard/"
 	CricbuzzURL               = "https://www.cricbuzz.com"
-	CricbuzzMatchAPI          = "https://www.cricbuzz.com/api/cricket-match/commentary/"
-	CricbuzzMatchScorecardAPI = "https://www.cricbuzz.com/api/html/cricket-scorecard/"
 )
 
 // Client represents the Cricbuzz API client
