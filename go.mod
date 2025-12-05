@@ -1,4 +1,4 @@
-module github.com/ashish0kumar/crictty
+module github.com/yannlawrency/crictty
 
 go 1.23.2
 
